@@ -1,7 +1,9 @@
 #!/usr/bin/python3
+""" Class module for square application """
+
 
 class square():
-
+    """ square for printing and calclulating square """
     width = 0
     height = 0
 
